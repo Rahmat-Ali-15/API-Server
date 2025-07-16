@@ -7,6 +7,31 @@
     "Home": {
       "carousel":[
         {
+          "id":1,
+          "img_1": "https://raw.githubusercontent.com/Rahmat-Ali-15/API-Server/refs/heads/main/Utilities/carousel.jpg" 
+        },
+        {
+          "id":1,
+          "img_1": "Utilities/carousel.jpg" 
+        },
+        {
+          "id":1,
+          "img_1": "Utilities/carousel.jpg" 
+        },
+        {
+          "id":1,
+          "img_1": "Utilities/carousel.jpg" 
+        },
+        {
+          "id":1,
+          "img_1": "Utilities/carousel.jpg" 
+        },
+        {
+          "id":1,
+          "img_1": "Utilities/carousel.jpg" 
+        },
+        {
+          "id":1,
           "img_1": "Utilities/carousel.jpg" 
         }
       ]
