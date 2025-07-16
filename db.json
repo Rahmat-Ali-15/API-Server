@@ -3,5 +3,12 @@
     "admin": [],
     "todo": [
       
-    ]
+    ],
+    "Home": {
+      "carousel":[
+        {
+          "img_1": "Utilities/carousel.jpg" 
+        }
+      ]
+    }
   }
