@@ -56,13 +56,13 @@
     "family-wine":[
       {
         "id": 1,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Family-wines/family_wine_1.jpg?raw=true",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Family-wines/family_wine_1.jpg?raw=true",
         "para": "MAN Family, Chardonnay, Padstal 2020",
         "price": "MRP &#8377 2095"
       },
       {
         "id": 2,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Family-wines/family_wine_2.jpg?raw=true",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Family-wines/family_wine_2.jpg?raw=true",
         "para": "MAN Family Wines, Pinotage, ''Bosstok'' 2021",
         "price": "MRP &#8377 2095"
       }
