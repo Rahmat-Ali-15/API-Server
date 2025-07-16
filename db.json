@@ -6,49 +6,49 @@
     "carousel": [
       {
         "id": 1,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel.jpg?raw=true"
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel.jpg?raw=true"
       },
       {
         "id": 2,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel2.jpg?raw=true"
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel2.jpg?raw=true"
       },
       {
         "id": 3,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel3.jpg?raw=true"
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel3.jpg?raw=true"
       },
       {
         "id": 4,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel4.jpg?raw=true"
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel4.jpg?raw=true"
       },
       {
         "id": 5,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel5.jpg?raw=true"
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel5.jpg?raw=true"
       },
       {
         "id": 6,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel6.jpg?raw=true"
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel6.jpg?raw=true"
       }
     ],
     
     "discover-wine":[
       {
         "id": 1,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_1.jpg?raw=true",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_1.jpg?raw=true",
         "img_caption": "Unique Grape Varietals"
       },
       {
         "id": 2,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_2.jpg?raw=true",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_2.jpg?raw=true",
         "img_caption": "Case of the month"
       },
       {
         "id": 3,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_3.jpg?raw=true",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_3.jpg?raw=true",
         "img_caption": "Iconic Wines"
       },
       {
         "id": 4,
-        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_4.jpg?raw=true",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_4.jpg?raw=true",
         "img_caption": "Limited Specials"
       }
     ],
