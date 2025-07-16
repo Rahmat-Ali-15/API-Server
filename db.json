@@ -10,53 +10,61 @@
       },
       {
         "id": 2,
-        "img_1": "Utilities/Home/Carousel/carousel2.jpg"
+        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel2.jpg?raw=true"
       },
       {
         "id": 3,
-        "img_1": "Utilities/Home/Carousel/carousel3.jpg"
+        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel3.jpg?raw=true"
       },
       {
         "id": 4,
-        "img_1": "Utilities/Home/Carousel/carousel4.jpg"
+        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel4.jpg?raw=true"
       },
       {
         "id": 5,
-        "img_1": "Utilities/Home/Carousel/carousel5.jpg"
+        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel5.jpg?raw=true"
       },
       {
         "id": 6,
-        "img_1": "Utilities/Home/Carousel/carousel6.jpg"
+        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel6.jpg?raw=true"
       }
     ],
     
     "discover-wine":[
       {
         "id": 1,
-        "img_1": "Utilities/Home/Discover-wines/discover_wine_1.jpg"
+        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_1.jpg?raw=true",
+        "img_caption": "Unique Grape Varietals"
       },
       {
         "id": 2,
-        "img_1": "Utilities/Home/Discover-wines/discover_wine_2.jpg"
+        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_2.jpg?raw=true",
+        "img_caption": "Case of the month"
       },
       {
         "id": 3,
-        "img_1": "Utilities/Home/Discover-wines/discover_wine_3.jpg"
+        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_3.jpg?raw=true",
+        "img_caption": "Iconic Wines"
       },
       {
         "id": 4,
-        "img_1": "Utilities/Home/Discover-wines/discover_wine_4.jpg"
+        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_4.jpg?raw=true",
+        "img_caption": "Limited Specials"
       }
     ],
 
     "family-wine":[
       {
         "id": 1,
-        "img_1": "Utilities/Home/Family-wines/family_wine_1.jpg"
+        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Family-wines/family_wine_1.jpg?raw=true",
+        "para": "MAN Family, Chardonnay, Padstal 2020",
+        "price": "MRP &#8377 2095"
       },
       {
         "id": 2,
-        "img_1": "Utilities/Home/Family-wines/family_wine_1.jpg"
+        "img_1": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Family-wines/family_wine_2.jpg?raw=true",
+        "para": "MAN Family Wines, Pinotage, ''Bosstok'' 2021",
+        "price": "MRP &#8377 2095"
       }
     ]
   }
