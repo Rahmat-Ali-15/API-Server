@@ -57,14 +57,335 @@
       {
         "id": 1,
         "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Family-wines/family_wine_1.jpg?raw=true",
-        "para": "MAN Family, Chardonnay, Padstal 2020",
+        "img_caption": "MAN Family, Chardonnay, Padstal 2020",
         "price": "MRP &#8377 2095"
       },
       {
         "id": 2,
         "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Family-wines/family_wine_2.jpg?raw=true",
-        "para": "MAN Family Wines, Pinotage, ''Bosstok'' 2021",
+        "img_caption": "MAN Family Wines, Pinotage, ''Bosstok'' 2021",
         "price": "MRP &#8377 2095"
+      }
+    ],
+
+    "spotlight-wine":[
+      {
+        "id": 1,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/Best-Seller.jpg?V=17072025141223",
+        "img_caption": "Best Sellers"
+      },
+      {
+        "id": 2,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/OrganicUpdated.jpg?V=17072025141223",
+        "img_caption": "Organic Wines"
+      },
+      {
+        "id": 3,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/WinesUnder3k1.jpg?V=17072025141223",
+        "img_caption": "Wines Under 3K"
+      },
+      {
+        "id": 4,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/Big-Bold-Red.jpg?V=17072025141223",
+        "img_caption": "Big Bold Reds"
+      }
+    ],
+
+    "gift-wine": [
+      {
+        "id": 1,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/Hamper24.jpg?V=17072025141223",
+        "img_caption": "For Her"
+      },
+      {
+        "id": 2,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/champanegift.jpg?V=17072025141223",
+        "img_caption": "Champagne"
+      },
+      {
+        "id": 3,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/ForHimnew1.jpg?V=17072025141223",
+        "img_caption": "For Him"
+      },
+      {
+        "id": 4,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/BirthdayGifts1.jpg?V=17072025141223",
+        "img_caption": "Birthday Gifts"
+      }
+    ],
+
+    "best-seller": [
+      {
+        "id": 1,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/1687-23-Red.jpg?V=17072025141223",
+        "img_caption": "Boekenhoutskloof, The Wolftrap Red 2023",
+        "price": "MRP &#8377 2395"
+      },
+      {
+        "id": 2,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/1599-22-Red.jpg?V=17072025141223",
+        "img_caption": "Susana Balbo, Crios Malbec 2022",
+        "price": "MRP &#8377 3,895"
+      },
+      {
+        "id": 3,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/1715-19-Red.jpg?V=17072025141223",
+        "img_caption": "Tenuta Sant Antonio, SCAIA Corvina 2021",
+        "price": "MRP &#8377 3,295"
+      },
+      {
+        "id": 4,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/1908-22-The-Chocolate-Block-2022.jpg?V=17072025141223",
+        "img_caption": "The Chocolate Block 2022",
+        "price": "MRP &#8377 6,995"
+      },
+      {
+        "id": 5,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/Man%20Bosstok%20Pinotage_NV_large.jpg?V=17072025141223",
+        "img_caption": "MAN Family Wines, Pinotage, ''Bosstok'' 2021",
+        "price": "MRP &#8377 2,095"
+      },
+      {
+        "id": 6,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/Saint-Clair---Origin-Pinot-Noir---NV.jpg?V=17072025141223",
+        "img_caption": "Saint Clair, Pinot Noir 2022",
+        "price": "MRP &#8377 4,295"
+      }
+    ],
+
+    "new-arrival": [
+      {
+        "id": 1,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/Radikon-vino_108_Slatnik-NV.jpg?V=17072025141223",
+        "img_caption": "Radikon SLATNIK Bianco 2022 (Orange Wine)",
+        "price": "MRP &#8377 8,495"
+      },
+      {
+        "id": 2,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/Pesquie-Rouge-Edition-1912M_HD-NM.jpg?V=17072025141223",
+        "img_caption": "Pesquie, Edition 1912M Red 2021",
+        "price": "MRP &#8377 2,795"
+      },
+      {
+        "id": 3,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/Radikon-vino_109_RS-NV.jpg?V=17072025141223",
+        "img_caption": "Radikon, RS 22 Rosso 2022",
+        "price": "MRP &#8377 8,495"
+      },
+      {
+        "id": 4,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/1-2163-19-Henri-Villages-Rouge-19.jpg?V=17072025141223",
+        "img_caption": "Henri Gouges, Nuit Saint Georges Rouge 2019",
+        "price": "MRP &#8377 12,495"
+      },
+      {
+        "id": 5,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/DEUTZ---Deutz-Brut-Rose-BD.jpg?V=17072025141223",
+        "img_caption": "Champagne Deutz, Brut Rose NV",
+        "price": "MRP &#8377 15,650"
+      },
+      {
+        "id": 6,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/Radikon-vino_107_Sivi-NV.jpg?V=17072025141223",
+        "img_caption": "Radicon SIVI, Bicano 2022 (Orange Wine)",
+        "price": "MRP &#8377 8,495"
+      },
+      {
+        "id": 7,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/2181-23-GerardBoulay_Sancerre_Chavignol_2023_550x.jpg?V=17072025141223",
+        "img_caption": "Gerard Bouly, Sancerre Chavignol 2023",
+        "price": "MRP &#8377 6,495"
+      }
+    ],
+
+    "beer-mead": [
+      {
+        "id": 1,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/Hoegarden.jpg?V=17072025141223",
+        "img_caption": "Hoegaarden Belgian Witbier Beer, 300 ml",
+        "price": "MRP &#8377 200"
+      },
+      {
+        "id": 2,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/Heineken.jpg?V=17072025141223",
+        "img_caption": "Heinken Beer, 330 ml",
+        "price": "MRP &#8377 160"
+      },
+      {
+        "id": 3,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/Corona.jpg?V=17072025141223",
+        "img_caption": "Corona Extra Premium Beer, 330 ml",
+        "price": "MRP &#8377 200"
+      }
+    ],
+
+    "brand": [
+      {
+        "id": 1,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/Brancaia_Logo.png?V=17072025141223",
+        "img_caption": "Brancaia"
+      },
+      {
+        "id": 2,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/SaintClairlogo.jpeg?V=17072025141223",
+        "img_caption": "Saint Clair"
+      },
+      {
+        "id": 3,
+        "img": "https://d33vadtjbny7xj.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/SaintCosmelogo.gif?V=17072025141223",
+        "img_caption": "Saint Cosme"
+      },
+      {
+        "id": 4,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/Thelemalogo.png?V=17072025141223",
+        "img_caption": "Thelema"
+      }
+    ],
+
+    "mixed-collection": [
+      {
+        "id": 1,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/The-BestSellers-Collection.jpg?V=17072025141223",
+        "img_caption": "The BestSellers Collection",
+        "price": "MRP &#8377 22,150"
+      },
+      {
+        "id": 2,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/1703-The%20Refreshing.jpg?V=17072025141223",
+        "img_caption": "The Refreshing Collection",
+        "price": "MRP &#8377 14,970"
+      },
+      {
+        "id": 3,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/1781-The%20Connoisseur%20Collection.jpg?V=17072025141223",
+        "img_caption": "The Connoisseur Collection",
+        "price": "MRP &#8377 27,955"
+      },
+      {
+        "id": 4,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/The-Introductory-Collection.jpg?V=17072025141223",
+        "img_caption": "The Introductory Collection",
+        "price": "MRP &#8377 15,970"
+      },
+      {
+        "id": 5,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/Brand%20New%20BUnch.jpg?V=17072025141223",
+        "img_caption": "The Brand new Bunch",
+        "price": "MRP &#8377 17,670"
+      },
+      {
+        "id": 6,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/case-of-the%20month_March.jpg?V=17072025141223",
+        "img_caption": "Case of the Month - March",
+        "price": "MRP &#8377 15,370"
+      },
+      {
+        "id": 7,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/The-ENTHUSIAST-COLLECTION.jpg?V=17072025141223",
+        "img_caption": "The Enthusiast Collection",
+        "price": "MRP &#8377 29,870"
+      },
+      {
+        "id": 8,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/case-of-the%20month_April.jpg?V=17072025141223",
+        "img_caption": "Case of the Month - April",
+        "price": "MRP &#8377 14,870"
+      }
+    ],
+
+    "wine-accessories": [
+      {
+        "id": 1,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/7.%20Red%20Madison%20425.jpg?V=17072025141223",
+        "img_caption": "Ocian, Madison Red Wine Glasses (Set of 6)",
+        "price": "MRP &#8377 1,853"
+      },
+      {
+        "id": 2,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/DSC04596_edit_800X600-new.jpg?V=17072025141223",
+        "img_caption": "Pulltap's opener - Black",
+        "price": "MRP &#8377 495"
+      },
+      {
+        "id": 3,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/3.Hongkong%20770%20Bordeaux.jpg?V=17072025141223",
+        "img_caption": "Lucaris, Hong Kong Hip-Champange Glasses (Set of 6)",
+        "price": "MRP &#8377 3,114"
+      },
+      {
+        "id": 4,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/3.Hongkong%20770%20Bordeaux.jpg?V=17072025141223",
+        "img_caption": "Lucaris, Hongkong Hip, Bordeaux - Red Wine Glasses (Set of 6)",
+        "price": "MRP &#8377 3,534"
+      },
+      {
+        "id": 5,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/zalto-universal-glass.jpg?V=17072025141223",
+        "img_caption": "Zalto Universal Glasses (Set of 2)",
+        "price": "MRP &#8377 15,000"
+      },
+      {
+        "id": 6,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/1.Tokyo%20480%20Lucaris.jpg?V=17072025141223",
+        "img_caption": "Lucaris, Tokyo Tempatation-Cabernet - Red Wine Glasses (Set of 6)",
+        "price": "MRP &#8377 2,430"
+      },
+      {
+        "id": 7,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/2.Tokyo%20365%20Lucaris.jpg?V=17072025141223",
+        "img_caption": "Lucaris, Tokyo Tempatation-Chardonnay - White Wine Glasses (Set of 6)",
+        "price": "MRP &#8377 2,238"
+      },
+      {
+        "id": 8,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/Products/Thumbnail/ToKyo_bordeaux.jpg?V=17072025141223",
+        "img_caption": "Lucaris, Tokyo Tempatation-Bordeaux - Red Wine Glasses (Set of 6)",
+        "price": "MRP &#8377 2,736"
+      }
+    ],
+
+    "blog": [
+      {
+        "id": 1,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/03-31-2025.jpg?V=17072025141223",
+        "img_caption": "MARCH 31, 2025 | WINE PARK",
+        "para": "Your Vino-Vacay Plans For 2025, Booked!"
+      },
+      {
+        "id": 2,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/03-24-2025.jpg?V=17072025141223",
+        "img_caption": "MARCH 24, 2025 | WINE PARK",
+        "para": "Heat Wave Proof Wines For Summer '25"
+      },
+      {
+        "id": 3,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/06-25-2025.jpg?V=17072025141223",
+        "img_caption": "JUNE 25, 2025 | WINE PARK",
+        "para": "First Div On Our Napa Valley Sauv Blanc?!"
+      },
+      {
+        "id": 4,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/05-21-2025.jpg?V=17072025141223",
+        "img_caption": "MAY 21, 2025 | WINE PARK",
+        "para": "Handcrafted Fine Wine Under 3k"
+      },
+      {
+        "id": 5,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/05-06-2025.jpg?V=17072025141223",
+        "img_caption": "MAY 06, 2025 | WINE PARK",
+        "para": "Listen Through The Best of The Wine Life Podcast"
+      },
+      {
+        "id": 6,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/04-30-2025.jpg?V=17072025141223",
+        "img_caption": "APRIL 30, 2025 | WINE PARK",
+        "para": "The House That Romain Built"
+      },
+      {
+        "id": 7,
+        "img": "https://d3lhatfimi1ec.cloudfront.net/1E62B4AA-5FF5-4E1E-9CF2-21F6F144B9E4/StaticImages/04-24-2025.jpg?V=17072025141223",
+        "img_caption": "APRIL 24, 2025 | WINE PARK",
+        "para": "Discover New Portugal"
       }
     ]
   }
