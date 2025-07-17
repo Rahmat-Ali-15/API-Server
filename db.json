@@ -71,22 +71,22 @@
     "spotlight-wine":[
       {
         "id": 1,
-        "img": "Utilities/Home/Spotlight-wine/Best-Seller.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Spotlight-wine/Best-Seller.jpg?raw=true",
         "img_caption": "Best Sellers"
       },
       {
         "id": 2,
-        "img": "Utilities/Home/Spotlight-wine/Big-Bold-Red.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Spotlight-wine/OrganicUpdated.jpg?raw=true",
         "img_caption": "Organic Wines"
       },
       {
         "id": 3,
-        "img": "Utilities/Home/Spotlight-wine/OrganicUpdated.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Spotlight-wine/WinesUnder3k1.jpg?raw=true",
         "img_caption": "Wines Under 3K"
       },
       {
         "id": 4,
-        "img": "Utilities/Home/Spotlight-wine/WinesUnder3k1.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Spotlight-wine/Big-Bold-Red.jpg?raw=true",
         "img_caption": "Big Bold Reds"
       }
     ],
@@ -94,22 +94,22 @@
     "gift-wine": [
       {
         "id": 1,
-        "img": "Utilities/Home/Gift-wine/Hamper24.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Gift-wine/Hamper24.jpg?raw=true",
         "img_caption": "For Her"
       },
       {
         "id": 2,
-        "img": "Utilities/Home/Gift-wine/champanegift.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Gift-wine/champanegift.jpg?raw=true",
         "img_caption": "Champagne"
       },
       {
         "id": 3,
-        "img": "Utilities/Home/Gift-wine/ForHimnew1.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Gift-wine/ForHimnew1.jpg?raw=true",
         "img_caption": "For Him"
       },
       {
         "id": 4,
-        "img": "Utilities/Home/Gift-wine/BirthdayGifts1.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Gift-wine/BirthdayGifts1.jpg?raw=true",
         "img_caption": "Birthday Gifts"
       }
     ],
@@ -117,37 +117,37 @@
     "best-seller": [
       {
         "id": 1,
-        "img": "Utilities/Home/Best-seller-wine/1.jpg",
+        "img": "Uhttps://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Best-seller-wine/1.jpg?raw=true",
         "img_caption": "Boekenhoutskloof, The Wolftrap Red 2023",
         "price": "MRP &#8377 2395"
       },
       {
         "id": 2,
-        "img": "Utilities/Home/Best-seller-wine/2.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Best-seller-wine/2.jpg?raw=true",
         "img_caption": "Susana Balbo, Crios Malbec 2022",
         "price": "MRP &#8377 3,895"
       },
       {
         "id": 3,
-        "img": "Utilities/Home/Best-seller-wine/3.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Best-seller-wine/3.jpg?raw=true",
         "img_caption": "Tenuta Sant Antonio, SCAIA Corvina 2021",
         "price": "MRP &#8377 3,295"
       },
       {
         "id": 4,
-        "img": "Utilities/Home/Best-seller-wine/4.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Best-seller-wine/4.jpg?raw=true",
         "img_caption": "The Chocolate Block 2022",
         "price": "MRP &#8377 6,995"
       },
       {
         "id": 5,
-        "img": "Utilities/Home/Best-seller-wine/5.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Best-seller-wine/5.jpg?raw=true",
         "img_caption": "MAN Family Wines, Pinotage, ''Bosstok'' 2021",
         "price": "MRP &#8377 2,095"
       },
       {
         "id": 6,
-        "img": "Utilities/Home/Best-seller-wine/6.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Best-seller-wine/6.jpg?raw=true",
         "img_caption": "Saint Clair, Pinot Noir 2022",
         "price": "MRP &#8377 4,295"
       }
@@ -156,43 +156,43 @@
     "new-arrival": [
       {
         "id": 1,
-        "img": "Utilities/Home/New-arrival-wines/1.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/New-arrival-wines/1.jpg?raw=true",
         "img_caption": "Radikon SLATNIK Bianco 2022 (Orange Wine)",
         "price": "MRP &#8377 8,495"
       },
       {
         "id": 2,
-        "img": "Utilities/Home/New-arrival-wines/2.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/New-arrival-wines/2.jpg?raw=true",
         "img_caption": "Pesquie, Edition 1912M Red 2021",
         "price": "MRP &#8377 2,795"
       },
       {
         "id": 3,
-        "img": "Utilities/Home/New-arrival-wines/3.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/New-arrival-wines/3.jpg?raw=true",
         "img_caption": "Radikon, RS 22 Rosso 2022",
         "price": "MRP &#8377 8,495"
       },
       {
         "id": 4,
-        "img": "Utilities/Home/New-arrival-wines/4.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/New-arrival-wines/4.jpg?raw=true",
         "img_caption": "Henri Gouges, Nuit Saint Georges Rouge 2019",
         "price": "MRP &#8377 12,495"
       },
       {
         "id": 5,
-        "img": "Utilities/Home/New-arrival-wines/5.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/New-arrival-wines/5.jpg?raw=true",
         "img_caption": "Champagne Deutz, Brut Rose NV",
         "price": "MRP &#8377 15,650"
       },
       {
         "id": 6,
-        "img": "Utilities/Home/New-arrival-wines/6.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/New-arrival-wines/6.jpg?raw=true",
         "img_caption": "Radicon SIVI, Bicano 2022 (Orange Wine)",
         "price": "MRP &#8377 8,495"
       },
       {
         "id": 7,
-        "img": "Utilities/Home/New-arrival-wines/7.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/New-arrival-wines/7.jpg?raw=true",
         "img_caption": "Gerard Bouly, Sancerre Chavignol 2023",
         "price": "MRP &#8377 6,495"
       }
@@ -201,19 +201,19 @@
     "beer-mead": [
       {
         "id": 1,
-        "img": "Utilities/Home/Beer-mead_wines/1.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Beer-mead_wines/1.jpg?raw=true",
         "img_caption": "Hoegaarden Belgian Witbier Beer, 300 ml",
         "price": "MRP &#8377 200"
       },
       {
         "id": 2,
-        "img": "Utilities/Home/Beer-mead_wines/2.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Beer-mead_wines/2.jpg?raw=true",
         "img_caption": "Heinken Beer, 330 ml",
         "price": "MRP &#8377 160"
       },
       {
         "id": 3,
-        "img": "Utilities/Home/Beer-mead_wines/3.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Beer-mead_wines/3.jpg?raw=true",
         "img_caption": "Corona Extra Premium Beer, 330 ml",
         "price": "MRP &#8377 200"
       }
@@ -222,22 +222,22 @@
     "brand": [
       {
         "id": 1,
-        "img": "Utilities/Home/Brand-wines/1.png",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Brand-wines/1.png?raw=true",
         "img_caption": "Brancaia"
       },
       {
         "id": 2,
-        "img": "Utilities/Home/Brand-wines/2.jpeg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Brand-wines/2.jpeg?raw=true",
         "img_caption": "Saint Clair"
       },
       {
         "id": 3,
-        "img": "Utilities/Home/Brand-wines/3.gif",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Brand-wines/3.gif?raw=true",
         "img_caption": "Saint Cosme"
       },
       {
         "id": 4,
-        "img": "Utilities/Home/Brand-wines/4.png",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Brand-wines/4.png?raw=true",
         "img_caption": "Thelema"
       }
     ],
@@ -245,49 +245,49 @@
     "mixed-collection": [
       {
         "id": 1,
-        "img": "Utilities/Home/Mixed-collection-wine/1.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Mixed-collection-wine/1.jpg?raw=true",
         "img_caption": "The BestSellers Collection",
         "price": "MRP &#8377 22,150"
       },
       {
         "id": 2,
-        "img": "Utilities/Home/Mixed-collection-wine/2.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Mixed-collection-wine/2.jpg?raw=true",
         "img_caption": "The Refreshing Collection",
         "price": "MRP &#8377 14,970"
       },
       {
         "id": 3,
-        "img": "Utilities/Home/Mixed-collection-wine/3.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Mixed-collection-wine/3.jpg?raw=true",
         "img_caption": "The Connoisseur Collection",
         "price": "MRP &#8377 27,955"
       },
       {
         "id": 4,
-        "img": "Utilities/Home/Mixed-collection-wine/4.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Mixed-collection-wine/4.jpg?raw=true",
         "img_caption": "The Introductory Collection",
         "price": "MRP &#8377 15,970"
       },
       {
         "id": 5,
-        "img": "Utilities/Home/Mixed-collection-wine/5.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Mixed-collection-wine/5.jpg?raw=true",
         "img_caption": "The Brand new Bunch",
         "price": "MRP &#8377 17,670"
       },
       {
         "id": 6,
-        "img": "Utilities/Home/Mixed-collection-wine/6.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Mixed-collection-wine/6.jpg?raw=true",
         "img_caption": "Case of the Month - March",
         "price": "MRP &#8377 15,370"
       },
       {
         "id": 7,
-        "img": "Utilities/Home/Mixed-collection-wine/7.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Mixed-collection-wine/7.jpg?raw=true",
         "img_caption": "The Enthusiast Collection",
         "price": "MRP &#8377 29,870"
       },
       {
         "id": 8,
-        "img": "Utilities/Home/Mixed-collection-wine/8.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Mixed-collection-wine/8.jpg?raw=true",
         "img_caption": "Case of the Month - April",
         "price": "MRP &#8377 14,870"
       }
@@ -296,49 +296,49 @@
     "wine-accessories": [
       {
         "id": 1,
-        "img": "Utilities/Home/Wine-accessories/1.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Wine-accessories/1.jpg?raw=true",
         "img_caption": "Ocian, Madison Red Wine Glasses (Set of 6)",
         "price": "MRP &#8377 1,853"
       },
       {
         "id": 2,
-        "img": "Utilities/Home/Wine-accessories/2.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Wine-accessories/2.jpg?raw=true",
         "img_caption": "Pulltap's opener - Black",
         "price": "MRP &#8377 495"
       },
       {
         "id": 3,
-        "img": "Utilities/Home/Wine-accessories/3.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Wine-accessories/3.jpg?raw=true",
         "img_caption": "Lucaris, Hong Kong Hip-Champange Glasses (Set of 6)",
         "price": "MRP &#8377 3,114"
       },
       {
         "id": 4,
-        "img": "Utilities/Home/Wine-accessories/4.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Wine-accessories/4.jpg?raw=true",
         "img_caption": "Lucaris, Hongkong Hip, Bordeaux - Red Wine Glasses (Set of 6)",
         "price": "MRP &#8377 3,534"
       },
       {
         "id": 5,
-        "img": "Utilities/Home/Wine-accessories/5.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Wine-accessories/5.jpg?raw=true",
         "img_caption": "Zalto Universal Glasses (Set of 2)",
         "price": "MRP &#8377 15,000"
       },
       {
         "id": 6,
-        "img": "Utilities/Home/Wine-accessories/6.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Wine-accessories/6.jpg?raw=true",
         "img_caption": "Lucaris, Tokyo Tempatation-Cabernet - Red Wine Glasses (Set of 6)",
         "price": "MRP &#8377 2,430"
       },
       {
         "id": 7,
-        "img": "Utilities/Home/Wine-accessories/7.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Wine-accessories/7.jpg?raw=trueg",
         "img_caption": "Lucaris, Tokyo Tempatation-Chardonnay - White Wine Glasses (Set of 6)",
         "price": "MRP &#8377 2,238"
       },
       {
         "id": 8,
-        "img": "Utilities/Home/Wine-accessories/8.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Wine-accessories/8.jpg?raw=true",
         "img_caption": "Lucaris, Tokyo Tempatation-Bordeaux - Red Wine Glasses (Set of 6)",
         "price": "MRP &#8377 2,736"
       }
@@ -347,43 +347,43 @@
     "blog": [
       {
         "id": 1,
-        "img": "Utilities/Home/Blog/1.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Blog/1.jpg?raw=true",
         "img_caption": "MARCH 31, 2025 | WINE PARK",
         "para": "Your Vino-Vacay Plans For 2025, Booked!"
       },
       {
         "id": 2,
-        "img": "Utilities/Home/Blog/2.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Blog/2.jpg?raw=true",
         "img_caption": "MARCH 24, 2025 | WINE PARK",
         "para": "Heat Wave Proof Wines For Summer '25"
       },
       {
         "id": 3,
-        "img": "Utilities/Home/Blog/3.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Blog/3.jpg?raw=true",
         "img_caption": "JUNE 25, 2025 | WINE PARK",
         "para": "First Div On Our Napa Valley Sauv Blanc?!"
       },
       {
         "id": 4,
-        "img": "Utilities/Home/Blog/4.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Blog/4.jpg?raw=true",
         "img_caption": "MAY 21, 2025 | WINE PARK",
         "para": "Handcrafted Fine Wine Under 3k"
       },
       {
         "id": 5,
-        "img": "Utilities/Home/Blog/5.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Blog/5.jpg?raw=true",
         "img_caption": "MAY 06, 2025 | WINE PARK",
         "para": "Listen Through The Best of The Wine Life Podcast"
       },
       {
         "id": 6,
-        "img": "Utilities/Home/Blog/6.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Blog/6.jpg?raw=true",
         "img_caption": "APRIL 30, 2025 | WINE PARK",
         "para": "The House That Romain Built"
       },
       {
         "id": 7,
-        "img": "Utilities/Home/Blog/7.jpg",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Blog/7.jpg?raw=true",
         "img_caption": "APRIL 24, 2025 | WINE PARK",
         "para": "Discover New Portugal"
       }
