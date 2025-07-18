@@ -117,7 +117,7 @@
     "best-seller": [
       {
         "id": 1,
-        "img": "Uhttps://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Best-seller-wine/1.jpg?raw=true",
+        "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Best-seller-wine/1.jpg?raw=true",
         "img_caption": "Boekenhoutskloof, The Wolftrap Red 2023",
         "price": "MRP &#8377 2395"
       },
