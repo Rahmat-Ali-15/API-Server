@@ -389,9 +389,5 @@
       }
     ]
   },
-  "Thought": [
-    {
-      "createdAt": "new Date().toISOString()"
-    }
-  ]
+  "Thought": []
 }
