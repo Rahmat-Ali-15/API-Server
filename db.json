@@ -391,7 +391,7 @@
   },
   "Thought": [
     {
-      "createdAt": "2025-09-29T04:30:00Z"
+      "createdAt": "new Date().toISOString()"
     }
   ]
 }
