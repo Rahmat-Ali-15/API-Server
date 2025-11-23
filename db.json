@@ -29,8 +29,8 @@
         "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Carousel/carousel6.jpg?raw=true"
       }
     ],
-    
-    "discover-wine":[
+
+    "discover-wine": [
       {
         "id": 1,
         "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Discover-wines/discover_wine_1.jpg?raw=true",
@@ -53,7 +53,7 @@
       }
     ],
 
-    "family-wine":[
+    "family-wine": [
       {
         "id": 1,
         "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Family-wines/family_wine_1.jpg?raw=true",
@@ -68,7 +68,7 @@
       }
     ],
 
-    "spotlight-wine":[
+    "spotlight-wine": [
       {
         "id": 1,
         "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Home/Spotlight-wine/Best-Seller.jpg?raw=true",
@@ -448,7 +448,93 @@
           "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/11.webp?raw=true",
           "caption": "Bestselling Furniture"
         }
-      ]
+      ],
+      "main_product": {
+        "longe": [
+          {
+            "id": "1",
+            "img": [
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/lounge_1.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/lounge_2.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/lounge_3.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/lounge_4.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/lounge_5.jpg?raw=true"
+            ],
+            "colorBar": [
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/1.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/2.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/3.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/4.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/5.jpg?raw=true"
+            ],
+            "caption": "Lounge Deep 83 Sofa",
+            "price": "$2,199.00"
+          }
+        ],
+        "axis": [
+          {
+            "id": "1",
+            "img": [
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/axis1.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/axis2.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/axis3.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/axis4.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/axis5.jpg?raw=true"
+            ],
+            "colorBar": [
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/1.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/2.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/3.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/4.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/5.jpg?raw=true"
+            ],
+            "caption": "Axis 2-Seat 88 Sofa",
+            "price": "$2,199.00"
+          }
+        ],
+        "retreat": [
+          {
+            "id": "1",
+            "img": [
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/retreat1.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/retreat2.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/retreat3.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/retreat4.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/retreat5.jpg?raw=true"
+            ],
+            "colorBar": [
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/1.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/2.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/3.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/4.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/5.jpg?raw=true"
+            ],
+            "caption": "Retreat 94 Sofa",
+            "price": "$2,299.00"
+          }
+        ],
+        "unwind": [
+          {
+            "id": "1",
+            "img": [
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/unwind1.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/unwind2.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/unwind3.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/unwind4.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/unwind5.jpg?raw=true"
+            ],
+            "colorBar": [
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/1.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/2.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/3.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/4.jpg?raw=true",
+              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/5.jpg?raw=true"
+            ],
+            "caption": "Unwind Slipcovered 92 Sofa",
+            "price": "$2,599.00"
+          }
+        ]
+      }
     }
   }
 }
