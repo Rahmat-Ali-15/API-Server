@@ -389,5 +389,66 @@
       }
     ]
   },
-  "Thought": []
+  "Thought": [],
+  "Modern-Furniture": {
+    "Furniture": {
+      "largeVisNav": [
+        {
+          "id": "1",
+          "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/1.jpeg?raw=true",
+          "caption": "Shop Black Friday"
+        },
+        {
+          "id": "2",
+          "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/2.webp?raw=true",
+          "caption": "Living Room Furniture"
+        },
+        {
+          "id": "3",
+          "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/3.webp?raw=true",
+          "caption": "Dining Room Furniture"
+        },
+        {
+          "id": "4",
+          "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/4.jpeg?raw=true",
+          "caption": "Bedroom Furniture"
+        },
+        {
+          "id": "5",
+          "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/5.webp?raw=true",
+          "caption": "Storage Furniture"
+        },
+        {
+          "id": "6",
+          "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/6.webp?raw=true",
+          "caption": "Accent Tables"
+        },
+        {
+          "id": "7",
+          "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/7.jpeg?raw=true",
+          "caption": "Outdoor Furniture"
+        },
+        {
+          "id": "8",
+          "img": ".https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/8.webp?raw=true",
+          "caption": "Bathroom Furniture"
+        },
+        {
+          "id": "9",
+          "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/9.jpeg?raw=true",
+          "caption": "Home Office Furniture"
+        },
+        {
+          "id": "10",
+          "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/10.webp?raw=true",
+          "caption": "Entryway Furniture"
+        },
+        {
+          "id": "11",
+          "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/largeVisNav/11.webp?raw=true",
+          "caption": "Bestselling Furniture"
+        }
+      ]
+    }
+  }
 }
