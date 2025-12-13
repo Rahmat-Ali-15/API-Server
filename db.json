@@ -469,7 +469,8 @@
             ],
             "thumbnail_img": [
               {
-                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb1.jpg?raw=true"
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb1.jpg?raw=true",
+                "cap": "Lounge Deep /83\" Sofa 83\" Sofa Deep: 46\" Multi-Cushion Taft Fabric in Cement 25\", Height: 83\", Width: 46\" Depth: 46\""
               },
               {
                 "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb2.jpg?raw=true"
