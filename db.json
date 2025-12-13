@@ -468,16 +468,36 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/5.jpg?raw=true"
             ],
             "thumbnail_img": [
-              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb1.jpg?raw=true",
-              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb2.jpg?raw=true",
-              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb3.jpg?raw=true",
-              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb4.jpg?raw=true",
-              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb5.jpg?raw=true",
-              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb6.jpg?raw=true",
-              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb7.jpg?raw=true",
-              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb8.jpg?raw=true",
-              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb9.jpg?raw=true",
-              "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb10.jpg?raw=true"
+              {
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb1.jpg?raw=true"
+              },
+              {
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb2.jpg?raw=true"
+              },
+              {
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb3.jpg?raw=true"
+              },
+              {
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb4.jpg?raw=true"
+              },
+              {
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb5.jpg?raw=true"
+              },
+              {
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb6.jpg?raw=true"
+              },
+              {
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb7.jpg?raw=true"
+              },
+              {
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb8.jpg?raw=true"
+              },
+              {
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb9.jpg?raw=true"
+              },
+              {
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb10.jpg?raw=true"
+              }
             ],
             "caption": "Lounge Deep 83 Sofa",
             "price": "$2,199.00"
@@ -552,7 +572,6 @@
             "img": [
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Storage/walnut1.jpg?raw=true",
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Storage/walnut2.jpg?raw=true"
-              
             ],
             "colorBar": [
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Storage/1.jpg?raw=true",
@@ -568,7 +587,6 @@
             "img": [
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Bookshelf/bookcase1.jpg?raw=true",
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Bookshelf/bookcase2.jpg?raw=true"
-              
             ],
             "colorBar": [
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Bookshelf/1.jpg?raw=true",
@@ -586,7 +604,6 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Bisou-chair/bisou-chair2.jpg?raw=true",
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Bisou-chair/bisou-chair3.jpg?raw=true",
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Bisou-chair/bisou-chair4.jpg?raw=true"
-              
             ],
             "colorBar": [
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Bisou-chair/1.jpg?raw=true",
@@ -604,7 +621,6 @@
             "img": [
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Keane/Keane1.jpg?raw=true",
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Keane/Keane2.jpg?raw=true"
-              
             ],
             "colorBar": [
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Keane/1.jpg?raw=true",
