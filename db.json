@@ -469,8 +469,7 @@
             ],
             "thumbnail_img": [
               {
-                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb1.jpg?raw=true",
-                "cap": "Lounge Deep /83\" Sofa 83\" Sofa Deep: 46\" Multi-Cushion Taft Fabric in Cement 25\", Height: 83\", Width: 46\" Depth: 46\""
+                "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb1.jpg?raw=true"
               },
               {
                 "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb2.jpg?raw=true"
@@ -500,7 +499,7 @@
                 "img": "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/loungeSofa/thumbnail-imgs/thumb10.jpg?raw=true"
               }
             ],
-            "caption": "Lounge Deep 83 Sofa",
+            "caption": "Lounge Deep 83\" Sofa",
             "price": "$2,199.00"
           }
         ],
@@ -521,7 +520,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/4.jpg?raw=true",
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/5.jpg?raw=true"
             ],
-            "caption": "Axis 2-Seat 88 Sofa",
+            "caption": "Axis 2-Seat 88\" Sofa",
             "price": "$2,199.00"
           }
         ],
@@ -542,7 +541,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/4.jpg?raw=true",
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/5.jpg?raw=true"
             ],
-            "caption": "Retreat 94 Sofa",
+            "caption": "Retreat 94\" Sofa",
             "price": "$2,299.00"
           }
         ],
@@ -563,7 +562,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/4.jpg?raw=true",
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/5.jpg?raw=true"
             ],
-            "caption": "Unwind Slipcovered 92 Sofa",
+            "caption": "Unwind Slipcovered 92\" Sofa",
             "price": "$2,599.00"
           }
         ],
@@ -578,7 +577,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Storage/1.jpg?raw=true",
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Storage/2.jpg?raw=true"
             ],
-            "caption": "Tate 64.5 Walnut Storage Media Console",
+            "caption": "Tate 64.5\" Walnut Storage Media Console",
             "price": "$1,359.00"
           }
         ],
@@ -593,7 +592,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Bookshelf/1.jpg?raw=true",
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Bookshelf/2.jpg?raw=true"
             ],
-            "caption": "Tate 22 Walnut Storage Bookshelf",
+            "caption": "Tate 22\" Walnut Storage Bookshelf",
             "price": "$679.00"
           }
         ],
@@ -627,7 +626,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Keane/1.jpg?raw=true",
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Keane/2.jpg?raw=true"
             ],
-            "caption": "Keane 18 Weathered Natural Solid Wood Narrow Nightstand",
+            "caption": "Keane 18\" Weathered Natural Solid Wood Narrow Nightstand",
             "price": "$439.00"
           }
         ]
