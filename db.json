@@ -500,7 +500,7 @@
               }
             ],
             "caption": "Lounge Deep 83\" Sofa",
-            "price": "$2,199.00"
+            "price": "2199"
           }
         ],
         "axis": [
@@ -521,7 +521,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Axis/5.jpg?raw=true"
             ],
             "caption": "Axis 2-Seat 88\" Sofa",
-            "price": "$2,199.00"
+            "price": "2199"
           }
         ],
         "retreat": [
@@ -542,7 +542,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Retreat/5.jpg?raw=true"
             ],
             "caption": "Retreat 94\" Sofa",
-            "price": "$2,299.00"
+            "price": "2299"
           }
         ],
         "unwind": [
@@ -563,7 +563,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Unwind/5.jpg?raw=true"
             ],
             "caption": "Unwind Slipcovered 92\" Sofa",
-            "price": "$2,599.00"
+            "price": "2599"
           }
         ],
         "walnut_storage": [
@@ -578,7 +578,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Storage/2.jpg?raw=true"
             ],
             "caption": "Tate 64.5\" Walnut Storage Media Console",
-            "price": "$1,359.00"
+            "price": "1359"
           }
         ],
         "walnut_bookshelf": [
@@ -593,7 +593,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Walnut-Bookshelf/2.jpg?raw=true"
             ],
             "caption": "Tate 22\" Walnut Storage Bookshelf",
-            "price": "$679.00"
+            "price": "679"
           }
         ],
         "bisou_chair": [
@@ -612,7 +612,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Bisou-chair/4.jpg?raw=true"
             ],
             "caption": "Bisou Accent Chair",
-            "price": "$1,199.00"
+            "price": "1199"
           }
         ],
         "keane": [
@@ -627,7 +627,7 @@
               "https://github.com/Rahmat-Ali-15/API-Server/blob/main/Utilities/Modern-Furniture/Furniture/mainProduct-Card/Keane/2.jpg?raw=true"
             ],
             "caption": "Keane 18\" Weathered Natural Solid Wood Narrow Nightstand",
-            "price": "$439.00"
+            "price": "439"
           }
         ]
       }
